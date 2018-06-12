@@ -1,0 +1,3 @@
+[submodule "elastica"]
+	path = elastica
+	url = git://github.com/ruflin/Elastica
